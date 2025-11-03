@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Data>
-   <Table>
-   <Row color="red">R</Row>
-   <Row color="green">G</Row>
-   <Row color="blue">B</Row>
-   <Row color="transparent">A</Row>
-   </Table>
-    <Table>
-   <Row type="number">255</Row>
-   <Row type="number">170</Row>
-   <Row type="number">250</Row>
-   <Row type="number">255</Row>
-   </Table>
-    <Table>
-   <Row pallete="1">Pinkish</Row>
-   <Row pallete="2">Blueish</Row>
-   <Row pallete="3">Redish</Row>
-   <Row pallete="4">Greenish</Row>
-   </Table>
+   <TypeEnum>
+   <Row id="1">MiniPC</Row>
+   <Row id="2">Integrated Circuit</Row>
+   <Row id="3">PC</Row>
+   <Row id="4">IoT</Row>
+   </TypeEnum>
+    <Manufacturers>
+   <Row industrial="yes">APROtech</Row>
+   <Row industrial="yes">ASUSTeK</Row>
+   <Row industrial="yes">BIOSTAR</Row>
+   <Row industrial="no">Fujitsu</Row>
+   </Manufacturers>
+    <Products>
+   <Row price="345">RPi 4B 8GB</Row>
+   <Row pallete="559">RPi 5 16GB</Row>
+   <Row pallete="269">Fujitsu Esprimo Q556 Tiny</Row>
+   <Row pallete="199">BananaPi M2 Berry 1GB</Row>
+   </Products>
 </Data>

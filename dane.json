@@ -1,20 +1,20 @@
 [
     {
-        "name": "coca cola",
-        "price": 6,
-        "sugar": 5.0,
-        "sugartax": true
+        "name": "Banana Pi BPI-M2 Berry Banana PI 1 GB 4 x 1.20 GHz",
+        "pricebruttorounded": 199,
+        "pricenetto": 161.79,
+        "available": true
     },
     {
-        "name": "fanta",
-        "price": 6,
-        "sugar": 4.9,
-        "sugartax": true
+        "name": "Raspberry Pi 4 model B WiFi DualBand Bluetooth 8GB RAM 1,8GHz",
+        "pricebruttorounded": 346,
+        "pricenetto": 281.22,
+        "available": true
     },
     {
-        "name": "sprite",
-        "price": 7,
-        "sugar": 5.1,
-        "sugartax": true
+        "name": "Raspberry Pi 5 16GB",
+        "pricebruttorounded": 559,
+        "pricenetto": 454.47,
+        "available": true
     }
 ]
