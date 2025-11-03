@@ -1,0 +1,34 @@
+h1.zdj {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+img {
+    height: 350px;
+    width: 600px;
+    border: 3px solid black;
+    margin: 1cm;
+}
+
+h1.autorzy {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+ol.listaA {
+    list-style-type: upper-alpha;
+    font-weight: bold;
+    border: 2px solid black;
+}
+.border2b {
+    border: black solid 2px;
+}
+
+.theader2 {
+color: white;
+background-color: black;
+}
+.h1center{
+    text-align: center;
+    margin-bottom: 1cm;
+}
