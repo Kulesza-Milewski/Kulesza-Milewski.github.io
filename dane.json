@@ -1,0 +1,20 @@
+[
+    {
+        "name": "coca cola",
+        "price": 6,
+        "sugar": 5.0,
+        "sugartax": true
+    },
+    {
+        "name": "fanta",
+        "price": 6,
+        "sugar": 4.9,
+        "sugartax": true
+    },
+    {
+        "name": "sprite",
+        "price": 7,
+        "sugar": 5.1,
+        "sugartax": true
+    }
+]
